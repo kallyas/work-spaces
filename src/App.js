@@ -1,6 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
 import Footer from './components/Footer';
+import BottomCard from './components/BottomCard';
 
 function App() {
   return (
@@ -19,6 +20,7 @@ function App() {
           Learn React
         </a>
       </header>
+      <BottomCard />
       <Footer />
     </div>
   );
