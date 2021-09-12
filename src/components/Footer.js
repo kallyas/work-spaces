@@ -7,7 +7,7 @@ function Footer() {
         <div class="row mt-6">
           <div class="col-xl-3 mb-3 mb-xl-0">
             <img
-              src="../assets/img/brand/light.svg"
+              src="../assets/light.svg"
               height="30"
               class="mb-3"
               alt="Spaces logo"
@@ -95,7 +95,7 @@ function Footer() {
           <div class="col mb-md-0">
             <a href="/" target="_blank" class="d-flex justify-content-center">
               <img
-                src="../assets/img/themesberg.svg"
+                src="../assets/light.svg"
                 height="25"
                 class="mb-3"
                 alt="Themesberg Logo"
