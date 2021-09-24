@@ -10,7 +10,8 @@ const IntroSection = () => {
           text-white
           pb-4 pb-md-7
         "
-        data-background="../assets/img/hero-1.jpg"
+        style={{ backgroundImage: "url('../assets/hero-1.jpg')"}}
+        data-background="../assets/hero-1.jpg"
       >
         <div className="container">
           <div className="row justify-content-center mb-4 mb-xl-5">
